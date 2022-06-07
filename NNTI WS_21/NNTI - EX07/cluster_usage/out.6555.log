@@ -1,0 +1,40 @@
+000 (6555.000.000) 2022-01-07 21:00:02 Job submitted from host: <134.96.227.100:9618?addrs=134.96.227.100-9618&alias=conduit.cs.uni-saarland.de&noUDP&sock=schedd_1232_a0c4>
+...
+040 (6555.000.000) 2022-01-07 21:00:03 Started transferring input files
+	Transferring to host: <134.96.224.230:9618?addrs=134.96.224.230-9618&alias=uller.cs.uni-saarland.de&noUDP&sock=teaching1_3543_1d29_790034>
+...
+040 (6555.000.000) 2022-01-07 21:00:03 Finished transferring input files
+...
+001 (6555.000.000) 2022-01-07 21:00:04 Job executing on host: <134.96.224.230:9618?addrs=134.96.224.230-9618&alias=uller.cs.uni-saarland.de&noUDP&sock=startd_2231_dbe1>
+...
+006 (6555.000.000) 2022-01-07 21:00:13 Image size of job updated: 2005
+	2005  -  MemoryUsage of job (MB)
+	2053404  -  ResidentSetSize of job (KB)
+...
+006 (6555.000.000) 2022-01-07 21:00:55 Image size of job updated: 2005
+	2005  -  MemoryUsage of job (MB)
+	2053808  -  ResidentSetSize of job (KB)
+...
+040 (6555.000.000) 2022-01-07 21:00:55 Started transferring output files
+...
+040 (6555.000.000) 2022-01-07 21:00:56 Finished transferring output files
+...
+005 (6555.000.000) 2022-01-07 21:00:56 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:05, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1731002  -  Run Bytes Sent By Job
+	4258  -  Run Bytes Received By Job
+	1731002  -  Total Bytes Sent By Job
+	4258  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :     0.00        1         7 
+	   Disk (KB)            : 66699           5 402881726 
+	   Gpus (Average)       :     0.04        1         1 "GPU-0833fde1"
+	   GpusMemory (MB)      :  1088                       
+	   Memory (MB)          :  2005        4096     64484 
+
+	Job terminated of its own accord at 2022-01-07T20:00:55Z with exit-code 0.
+...

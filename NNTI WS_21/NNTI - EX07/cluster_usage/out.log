@@ -1,0 +1,23 @@
+2022-01-07 20:00:07,860 - root - INFO - ==>>> total trainning batch number: 600
+2022-01-07 20:00:07,861 - root - INFO - ==>>> total testing batch number: 100
+2022-01-07 20:00:12,719 - root - INFO - ==>>> epoch: 0, batch index: 100, train loss: 0.7436329910446363
+2022-01-07 20:00:14,855 - root - INFO - ==>>> epoch: 0, batch index: 200, train loss: 0.24495949328119274
+2022-01-07 20:00:16,990 - root - INFO - ==>>> epoch: 0, batch index: 300, train loss: 0.1653796033611424
+2022-01-07 20:00:19,118 - root - INFO - ==>>> epoch: 0, batch index: 400, train loss: 0.13392285664805903
+2022-01-07 20:00:21,249 - root - INFO - ==>>> epoch: 0, batch index: 500, train loss: 0.08271349356043592
+2022-01-07 20:00:23,382 - root - INFO - ==>>> epoch: 0, batch index: 600, train loss: 0.08603201199059055
+2022-01-07 20:00:25,314 - root - INFO - ==>>> epoch: 0, batch index: 100, test loss: 0.06115466149356749, acc: 0.9781000018119812
+2022-01-07 20:00:27,446 - root - INFO - ==>>> epoch: 1, batch index: 100, train loss: 0.07296827551748912
+2022-01-07 20:00:29,577 - root - INFO - ==>>> epoch: 1, batch index: 200, train loss: 0.07553279371888046
+2022-01-07 20:00:31,706 - root - INFO - ==>>> epoch: 1, batch index: 300, train loss: 0.08207983160540751
+2022-01-07 20:00:33,834 - root - INFO - ==>>> epoch: 1, batch index: 400, train loss: 0.06985660839828989
+2022-01-07 20:00:35,962 - root - INFO - ==>>> epoch: 1, batch index: 500, train loss: 0.057222730204744617
+2022-01-07 20:00:38,118 - root - INFO - ==>>> epoch: 1, batch index: 600, train loss: 0.0763326800722158
+2022-01-07 20:00:40,028 - root - INFO - ==>>> epoch: 1, batch index: 100, test loss: 0.03476049882291563, acc: 0.9853000044822693
+2022-01-07 20:00:42,166 - root - INFO - ==>>> epoch: 2, batch index: 100, train loss: 0.06299978296471757
+2022-01-07 20:00:44,325 - root - INFO - ==>>> epoch: 2, batch index: 200, train loss: 0.05742728294451421
+2022-01-07 20:00:46,463 - root - INFO - ==>>> epoch: 2, batch index: 300, train loss: 0.04166155214522682
+2022-01-07 20:00:48,590 - root - INFO - ==>>> epoch: 2, batch index: 400, train loss: 0.051096936784547256
+2022-01-07 20:00:50,769 - root - INFO - ==>>> epoch: 2, batch index: 500, train loss: 0.05267729700682787
+2022-01-07 20:00:52,894 - root - INFO - ==>>> epoch: 2, batch index: 600, train loss: 0.038722388663004606
+2022-01-07 20:00:54,809 - root - INFO - ==>>> epoch: 2, batch index: 100, test loss: 0.02506380875813597, acc: 0.9879999756813049
